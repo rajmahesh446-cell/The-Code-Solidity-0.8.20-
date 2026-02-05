@@ -36,3 +36,4 @@ contract ElasticSupplyToken is ERC20, ERC20Burnable, Ownable {
     // Note: The 'burn' function is automatically included via ERC20Burnable.
     // Anyone can call burn(amount) to destroy their own tokens.
 }
+    // Anyone can call burn(amount) to destroy their own tokens.
